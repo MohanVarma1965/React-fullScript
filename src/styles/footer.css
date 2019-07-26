@@ -1,0 +1,11 @@
+
+.footerContainer {
+    background: #383333;
+    color: mintcream;
+    padding: 4rem;
+    font-size: 2rem;
+}
+
+.footerListContainer {
+    list-style:none;
+}
